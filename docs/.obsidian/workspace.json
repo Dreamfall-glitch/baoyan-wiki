@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "目标院校接收资格/集成电路相关词汇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "集成电路相关词汇"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.83334350585938
   },
   "right": {
     "id": "51569b779f733eef",
@@ -190,14 +190,18 @@
   },
   "active": "d8d956ce48cf05b4",
   "lastOpenFiles": [
-    "本校转出资格/从零开始, 造出一篇论文.md",
-    "本校转出资格/_sidebar.md",
-    "本校转出资格/How to f■■k GPA.md",
-    "README.md",
+    "目标院校接收资格/面试需要注意什么.md",
     "目标院校接收资格/_sidebar.md",
-    "_coverpage.md",
-    "atri-cover.png",
+    "目标院校接收资格/集成电路相关词汇.md",
+    "本校转出资格/_sidebar.md",
+    "README.md",
     "_sidebar.md",
+    "atri-cover.png",
+    "目标院校接收资格/非专业问题.md",
+    "本校转出资格/How to f■■k GPA.md",
+    "未命名.md",
+    "本校转出资格/从零开始, 造出一篇论文.md",
+    "_coverpage.md",
     "目标院校接收资格",
     "assets/README/file-20260921195206939.png",
     "assets/从零开始,.md",
