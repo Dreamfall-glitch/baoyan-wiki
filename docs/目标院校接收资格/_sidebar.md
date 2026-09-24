@@ -5,16 +5,15 @@
 	- <span><a href="#/本校转出资格/How%20to%20f■■k%20GPA?id=how-to-f■■k-gpa">How to f■k GPA</a></span>
 
 - 目标院校接收资格
-
-	- <span><a href="#/目标院校接收资格/材料准备">材料准备</a></span>
-	- <span><a href="#/目标院校接收资格/非专业问题">非专业问题</a></span>
-	- <span><a href="#/目标院校接收资格/集成电路相关词汇">集成电路相关词汇</a></span>
-	- <span><a href="#/目标院校接收资格/面试需要注意什么">面试需要注意什么</a></span>
-	- <span><a href="#/目标院校接收资格/套磁信模版">套磁信模版</a></span>
-	- <span><a href="#/目标院校接收资格/Obsidian简单上手">Obsidian简单上手</a></span>
+	- <span><a href="#/目标院校接收资格/材料准备?id=材料准备">材料准备</a></span>
+	- <span><a href="#/目标院校接收资格/非专业问题?id=非专业问题">非专业问题</a></span>
+	- <span><a href="#/目标院校接收资格/集成电路相关词汇?id=集成电路相关词汇">集成电路相关词汇</a></span>
+	- <span><a href="#/目标院校接收资格/面试需要注意什么?id=面试需要注意什么">面试需要注意什么</a></span>
+	- <span><a href="#/目标院校接收资格/套磁信模版?id=面试需要注意什么">套磁信模版</a></span>
+	- <span><a href="#/目标院校接收资格/Obsidian简单上手?id=Obsidian简单上手">Obsidian简单上手</a></span>
 
 - 专业课程资料
-	- <span><a href="#/专业课程资料/README">专业课程资料</a></span>
+	- <span><a href="#/专业课程资料/README?id=专业课程资料">专业课程资料</a></span>
 
 - 返回首页
 	- [我是谁](/?id=我是谁)
