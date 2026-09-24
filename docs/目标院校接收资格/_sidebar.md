@@ -1,9 +1,20 @@
 <!-- docs/_sidebar.md -->
-- 集成电路相关词汇
 
-- 面试需要注意什么
+- 本校转出资格
+	- <span><a href="#/本校转出资格/从零开始,%20造出一篇论文?id=从零开始-造出一篇论文">从零开始，造出一篇论文</a></span>
+	- <span><a href="#/本校转出资格/How%20to%20f■■k%20GPA?id=how-to-f■■k-gpa">How to f■k GPA</a></span>
 
-- 非专业问题
+- 目标院校接收资格
+
+	- <span><a href="#/目标院校接收资格/材料准备">材料准备</a></span>
+	- <span><a href="#/目标院校接收资格/非专业问题">非专业问题</a></span>
+	- <span><a href="#/目标院校接收资格/集成电路相关词汇">集成电路相关词汇</a></span>
+	- <span><a href="#/目标院校接收资格/面试需要注意什么">面试需要注意什么</a></span>
+	- <span><a href="#/目标院校接收资格/套磁信模版">套磁信模版</a></span>
+	- <span><a href="#/目标院校接收资格/Obsidian简单上手">Obsidian简单上手</a></span>
+
+- 专业课程资料
+	- <span><a href="#/专业课程资料/README">专业课程资料</a></span>
 
 - 返回首页
 	- [我是谁](/?id=我是谁)
