@@ -8,6 +8,6 @@
 >
 > 但也希望能帮到正在阅读的你
 
-[GitHub]([https://github.com/Dreamfall-glitch](https://github.com/Dreamfall-glitch/baoyan-wiki))
+[GitHub](https://github.com/Dreamfall-glitch/baoyan-wiki)
 [Get Started](/?id=我是谁)
 
